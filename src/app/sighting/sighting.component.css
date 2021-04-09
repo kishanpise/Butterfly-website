@@ -1,0 +1,17 @@
+body{
+        background-attachment: fixed;
+        background-color: rgb(240, 238, 216);
+       
+    width: 1349px;
+  height: max-content;
+}
+#sign{
+    background-color: rgb(181, 221, 99);
+    margin-left: 400px;
+    box-sizing: border-box;
+    width: 500px;
+    height: 500px;
+    padding: 30px;
+    border: 10px solid black;
+    border-radius: 20px;
+}

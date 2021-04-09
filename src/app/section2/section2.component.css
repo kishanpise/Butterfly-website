@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(248, 248, 248);
+    width: 1349px;
+    height: 1250px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: rgb(48, 35, 27);
+  
+}
+.zz{
+  height: 55px;
+}
+
+.w{
+  width: 1349px;
+  height: 50px;
+}
+.left{
+  float: left;
+}
+.b1{
+  width: 500px;
+  height: 300px;
+  border-style: double;
+  float: left;
+  
+}
+.sec{
+  padding-left: 530px;
+  font-size: 20px;
+}
+.sp{
+  font-weight: bold;
+  text-decoration: underline;
+}
+.img1{
+ 
+  padding-bottom: 10px;
+}
+.b2{
+  width: 450px;
+  height: 250px;
+}
+.quotes{
+  font-family:  BlinkMacSystemFont;
+  font-size: 30px;
+  font-variant: small-caps;
+  color: rgb(68, 170, 48);
+}
+.quotes2{
+  padding-left: 325px;
+  color: rgb(90, 76, 30);
+}
+.link{
+  text-decoration: underline;
+  color: rgb(156, 123, 33);
+}

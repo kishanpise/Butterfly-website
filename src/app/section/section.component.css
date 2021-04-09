@@ -1,0 +1,66 @@
+body{
+  background-image: url(/assets/back3.jpg);
+  width: 1349px;
+  height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+
+}
+.cap{
+  
+  color:black;
+  font-size: 50px;
+  font-weight: bold;
+  display: inline;
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  
+}
+.cap1{
+  color: white;
+  font-size: 20px;
+  width: fit-content;
+  font-weight: 700;
+  position: absolute;
+  top: 53%;
+  left: 28%;
+  transform: translate(-50%, -50%);
+  text-align: left;
+}
+.cap2{
+  
+ 
+  
+  position: absolute;
+  top: 64%;
+  left: 10%;
+  border-style: none;
+  padding: 8px;
+  background-color: rgb(159, 212, 51);
+  font-weight: bold;
+  border-radius: 10px;
+}
+.bd{
+  border: 1px solid black;
+  align-items: center;
+  top: 300px;
+}
+.cap3{
+  border-radius: 50%;
+  border: 2px solid black;
+  position: absolute;
+  width: 40px;
+  top:87%;
+  left: 45%;
+}
+.bt:hover {
+  border: 2px solid white;
+  color: white;
+}

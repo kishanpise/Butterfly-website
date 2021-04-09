@@ -1,0 +1,30 @@
+.nav{
+    background-color: rgb(54, 85, 25);
+    width: 100%;
+    height: 280px;
+    color: blanchedalmond;
+}
+.nav2{
+    margin: 40px;
+    width: 100%;
+}
+.row{
+    padding-left: 80px;
+}
+.fb{
+  margin: 5px;
+    width: 38px;
+    height: 38px;
+}
+.fb2{
+    margin-top: 3px;
+    margin-right: 20px;
+    width: 48px;
+    height: 48px;
+}
+.sc{
+    padding-left:45%;
+}
+.sc2{
+    padding-left:38%;
+}

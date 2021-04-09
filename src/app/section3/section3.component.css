@@ -1,0 +1,27 @@
+body{
+    background-attachment: fixed;
+    background-image:url(/assets/back2.jpg);
+}
+.zz{
+    height: 55px;
+}
+.card{
+    margin: 25px;
+    width: 20rem;
+     box-shadow: black;
+    
+}
+.card-title,.card-text{
+    color: indianred;
+}
+.card:hover{
+    width: 40rem;
+    
+    
+}
+.h{
+    color: rgb(144, 231, 109)
+}
+p{
+    font-size: 15px;
+}
